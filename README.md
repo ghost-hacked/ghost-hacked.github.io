@@ -1,4 +1,4 @@
-# gh0st-hack.github.io // connor.codes
+# ghost-hacked.github.io // connor.codes
 Hello! This is a repository to host my website.
 
 The image you see on the website is a piece of generative art I made using [canvas-sketch](https://github.com/mattdesl/canvas-sketch). A random one is chosen from a collection every time you refresh the page.
